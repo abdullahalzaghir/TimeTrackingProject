@@ -2,5 +2,4 @@ venv/
 __pycache__/
 .vscode/
 data/data.backup.json
-venv/Lib
-.gitignore
+build/
